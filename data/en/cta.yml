@@ -1,0 +1,12 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  ## bg_Image : "images/backgrounds/bg-1.jpg"
+  ## title : "Great Design & Incredible Features"
+  title : "We don't just take pictures, we capture every mood!"
+  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  button:
+    enable : true
+    ## label : "Start a project with us"
+    label : "Start a project"
+    link : "#contact"
