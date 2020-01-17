@@ -1,5 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+## baseURL = "https://examplesite.com"
+baseURL = "https://teamblubee.github.io/ns/"
 title = "Meghna"
 theme = "meghna-hugo"
 publishDir = "docs"
