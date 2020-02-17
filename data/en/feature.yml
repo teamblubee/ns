@@ -9,20 +9,20 @@ feature:
   feature_Item : 
     - icon : ti-world # themify icon pack : https://themify.me/themify-icons
       ## title : SEO Optimized
-      title : First Topic
+      title : Location
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
       
     - icon : ti-panel # themify icon pack : https://themify.me/themify-icons
       ## title : Easy Customization
-      title : Second Topic
+      title : Bookings
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
 
     - icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
       ## title : SEO Optimized
-      title : Third Title
+      title : Testimonials
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
       
-    - icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      ## - icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
       ## title : Easy Customization
-      title : Fourth Title
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      ## title : Fourth Title
+      ## content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe

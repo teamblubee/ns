@@ -6,7 +6,11 @@ banner:
   icon : "" # themify icon pack : https://themify.me/themify-icons
   ## title : "Experience the new reality"
   title : "DiAmoye Studios"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  content : "DiAmoye Studios is a husband and wife team who pride themselves on providing photography services which include life events such as proposals, engagements, weddings, anniversaries, maternity stages and beyond.  We also provide professional services for your business needs such as headshots and promotional portraits.
+
+We strive to build lifetime and lasting relationships with our clients that allow us to share in their special moments.
+
+We are not just taking pictures, we are creating lasting memories." 
   button:
     enable : true
     label : "Explore Us"
